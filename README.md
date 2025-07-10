@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm a second-year Computer Engineering student, passionate about software development and continuously learning new technologies. I'm focused on building strong fundamentals in programming and working on real-world projects to improve my skills.
+
+- 🔭 I’m currently working on **small Java projects** and learning how to build full-stack applications.
+- 🌱 I’m currently learning **Java**, **SQL**, **HTML/CSS**, and exploring **JavaScript** and **basic web development frameworks**.
+- 👯 I’m looking to collaborate on **open source projects**, **student tech communities**, or anything that helps me grow as a developer.
+- 💬 Ask me about **Java basics**, **databases**, or **web design with HTML/CSS**.
+- 📫 How to reach me: [elonakuqi573@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/elona-kuqi-25a575359/)
+
+
 
 <!--
 **ElonaKuqiiii/ElonaKuqiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
