@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a second-year Computer Engineering student, passionate about software development and continuously learning new technologies. I'm focused on building strong fundamentals in programming and working on real-world projects to improve my skills.
+I'm a third-year Computer Engineering student, passionate about software development and continuously learning new technologies. I'm focused on building strong fundamentals in programming and working on real-world projects to improve my skills.
 
 - 🔭 I’m currently working on **small Java projects** and learning how to build full-stack applications.
 - 🌱 I’m currently learning **Java**, **SQL**, **HTML/CSS**, and exploring **JavaScript** and **basic web development frameworks**.
